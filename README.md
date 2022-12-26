@@ -1,3 +1,6 @@
+* [回测报告](https://github.com/AutoAlpha2022/AutoAlpha/issues/1)
+* ST剔除，结果保存在NAS/output中。3000+ => 2100 (2018-2022)
+
 * 如何访问到docker里面的文件。pycharm 只能download 不能upload吗？
 * 如何一行一行运行？
 
