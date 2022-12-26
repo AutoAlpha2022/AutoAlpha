@@ -21,6 +21,7 @@
 * [可选变换](https://github.com/AutoAlpha2022/AutoAlpha/issues/2)：min max 普通运算 rank
 ### 股票选择：
 * 根据因子值的大小排序，选择股票
+* 根据quantile分组
 * 选股去掉涨跌停
 * 行业，大盘指数
 * twap均价。作为成交的价格。成交时间：一天？五天？
