@@ -24,7 +24,7 @@
 * 如何一行一行运行？
 * Debug
 
-</br>
+</br> </hr>
 (1) 今天参考了[alphalens](https://github.com/quantopian/alphalens), 并在此基础上开发回测框架，具体分为
 
 time-IC 折线图
