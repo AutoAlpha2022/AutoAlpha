@@ -1,4 +1,4 @@
-## 完成事项
+
 ### 因子评价
 * XGB 树分裂的参考
 * 线性回归的参考
@@ -24,6 +24,7 @@
 * 如何一行一行运行？
 * Debug
 
+</br>
 (1) 今天参考了[alphalens](https://github.com/quantopian/alphalens), 并在此基础上开发回测框架，具体分为
 
 time-IC 折线图
