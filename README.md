@@ -1,8 +1,17 @@
+## 完成事项
+### 因子评价
+* XGB 树分裂的参考
+* 线性回归的参考
+### 具体事项
 * [回测报告](https://github.com/AutoAlpha2022/AutoAlpha/issues/1)
 * ST剔除，结果保存在NAS/output中。3000+ => 2100 (2018-2022)
-
+### 因子生成
+* 可选因子：流动性、波动率和不平衡性。以及其他基础指标
+* 可选变换：min max 普通运算 rank
+### 问题
 * 如何访问到docker里面的文件。pycharm 只能download 不能upload吗？
 * 如何一行一行运行？
+* Debug
 
 (1) 今天参考了[alphalens](https://github.com/quantopian/alphalens), 并在此基础上开发回测框架，具体分为
 
