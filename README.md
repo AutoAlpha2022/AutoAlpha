@@ -12,7 +12,7 @@
 * ST剔除，结果保存在NAS/output中。3000+ => 2100 (2018-2022)
 ### 因子生成
 * 可选因子：流动性、波动率和不平衡性。以及其他基础指标
-* 可选变换：min max 普通运算 rank
+* [可选变换](https://github.com/AutoAlpha2022/AutoAlpha/issues/2)：min max 普通运算 rank
 ### 股票选择：
 * 根据因子值的大小排序，选择股票
 * 数量选择：
