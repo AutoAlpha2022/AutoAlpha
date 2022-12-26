@@ -18,6 +18,7 @@
   * 预测？下一日的流动性
   * R^Squared
   * 流动性转化为收益率
+  * 流动性的变化率
 * [可选变换](https://github.com/AutoAlpha2022/AutoAlpha/issues/2)：min max 普通运算 rank
 ### 股票选择：
 * 根据因子值的大小排序，选择股票
