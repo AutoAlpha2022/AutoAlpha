@@ -2,6 +2,11 @@
 ### 因子评价
 * XGB 树分裂的参考
 * 线性回归的参考
+### 因子处理函数
+* def neutralize(): 中性化
+* def winsorize(): 去极值
+* def winsorize_med(): 中位数去极值
+* def standrlize(): 标准化
 ### 具体事项
 * [回测报告](https://github.com/AutoAlpha2022/AutoAlpha/issues/1)
 * ST剔除，结果保存在NAS/output中。3000+ => 2100 (2018-2022)
