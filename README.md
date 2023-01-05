@@ -108,7 +108,8 @@ class StockFactor(object):
 </hr></br>
 
 ## 特征提取
-
+* [Kaggle HFT Orderbook Features Ext](https://www.kaggle.com/code/luiscl/hft-orderbook-features-ext)
+* [Wavelet](https://github.com/AutoAlpha2022/AutoAlpha/issues/4)
 * How and When are High-Frequency Stock Returns Predictable
 * Feature Extraction, Performance Analysis and System Design Using the DU Mobility Dataset
 * Feature Extraction Methods in Quantitative Structure–Activity Relationship Modeling: A Comparative Study
